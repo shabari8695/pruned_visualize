@@ -16,7 +16,7 @@ The required task is in the Vis.ipynb
 
 3. Dataset : A subset of the following dataset was used during training the VGG16 model. https://www.kaggle.com/c/dogs-vs-cats
 
-<b>NOTE</b> The images need to segregated into respective label folders to resemble a file structure like :
+<b>NOTE</b> The images need to be segregated into respective label folders to resemble a file structure like :
 
 Train
 
