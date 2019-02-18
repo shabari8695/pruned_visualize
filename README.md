@@ -10,11 +10,11 @@ The required task is in the Vis.ipynb
 4. Download the base model (not pruned) [here](https://drive.google.com/open?id=1iiwwflrNDzwFy3J-nqn-K0YDmp1D7_yV)
 
 ## Resources and References
-1. Pruning : A silghtly modifed verison of the code for the following github repo was used to genrated the pruned model for the visualisation purpose. Repo : https://github.com/jacobgil/pytorch-pruning.git
+1. Pruning : A silghtly modifed verison of the code form the following github repo was used to generated the pruned model for the visualisation purpose. Repo : https://github.com/jacobgil/pytorch-pruning.git
 
 2. Layer-Visualisation : The following article from stanford lecture cs231n http://cs231n.github.io/understanding-cnn/ and the javascript based tutorial by Andrej Karpathy https://cs.stanford.edu/people/karpathy/convnetjs/demo/mnist.html were used for the purpose of displaying the feature maps and weights of layers 1-5
 
-3. Dataset : A subset of the following dataset was used during training the VGG16 model. https://www.kaggle.com/c/dogs-vs-cats
+3. Dataset : A subset of the following dataset was used during training/testing the VGG16 model. https://www.kaggle.com/c/dogs-vs-cats
 
 <b>NOTE</b> The images need to be segregated into respective label folders to resemble a file structure like :
 
